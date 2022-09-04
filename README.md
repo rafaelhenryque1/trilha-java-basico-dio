@@ -2,4 +2,4 @@
 projetos de treinamento em java
 
 
-rimeiro projeto em java de escrita e leitura de dados
+primeiro projeto em java de escrita e leitura de dados
